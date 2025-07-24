@@ -1,0 +1,101 @@
+ID,name,category,gender,follower_count,platform
+INF_0001,Bachittar Natt,Fitness,Male,581778,Instagram
+INF_0002,Charan Kara,Lifestyle,Male,219947,Twitter
+INF_0003,Hiral Shroff,Health Coach,Male,889834,Instagram
+INF_0004,Naveen Ghosh,Fitness,Male,492925,Twitter
+INF_0005,Riya Subramanian,Health Coach,Male,421992,Twitter
+INF_0006,Yauvani Tak,Health Coach,Male,947059,Twitter
+INF_0007,Zashil Sengupta,Nutrition,Female,18628,Instagram
+INF_0008,Pratyush Sarkar,Celebrity,Male,331064,Instagram
+INF_0009,Leela Dhar,Nutrition,Male,801765,Instagram
+INF_0010,Samaksh Sant,Nutrition,Female,1271105,YouTube
+INF_0011,Simon Bhalla,Fitness,Female,1129551,Instagram
+INF_0012,Nihal Raju,Celebrity,Male,619839,Twitter
+INF_0013,David Srivastava,Health Coach,Female,763403,Twitter
+INF_0014,Hemani Menon,Lifestyle,Female,101100,Twitter
+INF_0015,Osha Parmar,Lifestyle,Female,172335,Instagram
+INF_0016,Vritti Bhattacharyya,Fitness,Male,955870,Twitter
+INF_0017,Janaki Deol,Nutrition,Male,750056,Instagram
+INF_0018,Pushti Varty,Nutrition,Female,1438503,Twitter
+INF_0019,Urvashi Dugar,Fitness,Female,363903,Twitter
+INF_0020,Urmi Ramachandran,Lifestyle,Male,800775,YouTube
+INF_0021,Ria Khosla,Health Coach,Male,685070,Instagram
+INF_0022,Tarak Sant,Lifestyle,Female,1693303,YouTube
+INF_0023,Raksha Pau,Celebrity,Male,447463,Twitter
+INF_0024,Pooja Sani,Nutrition,Male,1051963,YouTube
+INF_0025,Chaitaly Boase,Celebrity,Male,297826,Instagram
+INF_0026,Nitara Choudhry,Health Coach,Female,1571601,Twitter
+INF_0027,Nandini Doshi,Celebrity,Female,842603,YouTube
+INF_0028,Chatura Dhillon,Lifestyle,Non-binary,295102,Twitter
+INF_0029,Girindra Pathak,Celebrity,Male,103810,Instagram
+INF_0030,Qasim Edwin,Lifestyle,Female,1666110,Twitter
+INF_0031,Jagdish Ramanathan,Celebrity,Female,811915,YouTube
+INF_0032,Dayita Aurora,Health Coach,Non-binary,1114633,YouTube
+INF_0033,Azad Baria,Health Coach,Female,29077,Twitter
+INF_0034,Yadavi Khurana,Fitness,Female,1131108,YouTube
+INF_0035,Yachana Oommen,Nutrition,Male,916768,Instagram
+INF_0036,Manan Raval,Celebrity,Male,1519336,Twitter
+INF_0037,Brijesh Sachar,Nutrition,Non-binary,1602950,Instagram
+INF_0038,Aarna Chhabra,Health Coach,Non-binary,1830609,Twitter
+INF_0039,Triveni Tak,Nutrition,Female,1069646,Twitter
+INF_0040,Isaiah Thaman,Lifestyle,Male,1604101,Instagram
+INF_0041,Frederick Krish,Health Coach,Non-binary,1939484,Twitter
+INF_0042,Yatan Dhaliwal,Fitness,Female,1029680,Instagram
+INF_0043,Pranav Rattan,Fitness,Non-binary,1847813,YouTube
+INF_0044,Abdul Loke,Lifestyle,Male,1846319,Twitter
+INF_0045,Devansh Goda,Fitness,Male,1024195,Instagram
+INF_0046,Falak Sha,Health Coach,Female,274256,Twitter
+INF_0047,Triya Bal,Celebrity,Non-binary,351296,YouTube
+INF_0048,Sanaya Gokhale,Health Coach,Female,892384,Instagram
+INF_0049,Ranbir Kaul,Health Coach,Female,1451757,Instagram
+INF_0050,Gayathri Gulati,Nutrition,Male,1413629,Twitter
+INF_0051,Vamakshi Prasad,Nutrition,Male,1090435,YouTube
+INF_0052,Omya Raghavan,Fitness,Male,139272,YouTube
+INF_0053,Maya Morar,Fitness,Female,487585,Twitter
+INF_0054,Avi Lanka,Lifestyle,Male,1489450,Twitter
+INF_0055,Tamanna Sanghvi,Fitness,Male,1903803,Instagram
+INF_0056,Sara Sule,Nutrition,Male,504131,YouTube
+INF_0057,Elijah Parekh,Celebrity,Male,282478,Twitter
+INF_0058,Naveen Prabhakar,Health Coach,Female,514602,YouTube
+INF_0059,Charan Narayan,Celebrity,Male,208278,Twitter
+INF_0060,Om Wason,Celebrity,Male,867143,YouTube
+INF_0061,Yatin Baral,Fitness,Female,1360137,Instagram
+INF_0062,Gopal Korpal,Fitness,Male,716569,Instagram
+INF_0063,Priya Ram,Lifestyle,Male,1129672,YouTube
+INF_0064,Qushi Dalal,Lifestyle,Male,589151,YouTube
+INF_0065,Dayita Bail,Lifestyle,Female,163093,YouTube
+INF_0066,Pavani Gulati,Health Coach,Male,1372646,Twitter
+INF_0067,Hitesh Khosla,Fitness,Non-binary,1947732,Instagram
+INF_0068,Hardik Choudhry,Lifestyle,Male,1014481,Instagram
+INF_0069,Vyanjana Badal,Celebrity,Non-binary,350269,YouTube
+INF_0070,Akshay Gola,Fitness,Non-binary,561171,YouTube
+INF_0071,Reyansh Oak,Nutrition,Male,1536980,Twitter
+INF_0072,Hiral Vora,Celebrity,Male,627241,Instagram
+INF_0073,Ranveer Chandra,Fitness,Female,1142065,Instagram
+INF_0074,Omkaar Parsa,Nutrition,Male,1230109,YouTube
+INF_0075,Oviya Sharma,Health Coach,Non-binary,1118852,Instagram
+INF_0076,Hemani Chada,Fitness,Non-binary,173005,Instagram
+INF_0077,Aadhya Dutta,Fitness,Female,1421023,Instagram
+INF_0078,Janya Sinha,Celebrity,Male,1872067,Twitter
+INF_0079,Kalpit Sathe,Lifestyle,Female,88344,Twitter
+INF_0080,Ladli Bahl,Fitness,Male,1229049,Twitter
+INF_0081,Jhalak Konda,Health Coach,Male,551865,Instagram
+INF_0082,Damini Kohli,Nutrition,Male,835023,Instagram
+INF_0083,Michael Lad,Nutrition,Female,1953292,Instagram
+INF_0084,Advik Sundaram,Fitness,Female,1185683,Instagram
+INF_0085,Aarav Peri,Fitness,Female,1065917,YouTube
+INF_0086,Manbir Banik,Lifestyle,Non-binary,1852306,Instagram
+INF_0087,Brijesh Krishna,Lifestyle,Male,335819,YouTube
+INF_0088,Idika Vala,Health Coach,Female,1287781,Twitter
+INF_0089,Nilima Loyal,Health Coach,Male,1718591,Twitter
+INF_0090,Wishi Raju,Nutrition,Non-binary,222236,Instagram
+INF_0091,Rishi Zachariah,Nutrition,Male,229470,Twitter
+INF_0092,Panini Khare,Health Coach,Male,595885,Twitter
+INF_0093,Rachana Walia,Lifestyle,Female,431974,Twitter
+INF_0094,Maanas Bhavsar,Nutrition,Female,531639,Instagram
+INF_0095,Fiyaz Bhasin,Fitness,Female,1744269,YouTube
+INF_0096,Vamakshi Chowdhury,Fitness,Male,1622154,Instagram
+INF_0097,Finn Bhagat,Nutrition,Male,931596,Twitter
+INF_0098,Garima Varghese,Celebrity,Female,239616,Instagram
+INF_0099,Aditya Kanda,Lifestyle,Female,1755272,YouTube
+INF_0100,Keya Jayaraman,Health Coach,Female,906328,Instagram
